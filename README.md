@@ -1,7 +1,8 @@
 # Task Tracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
-This is first Angular2+ project made with use of JSOn-server.
+
+This is my first Angular2+ project made with use of JSON-server.
 
 ## Development server
 
