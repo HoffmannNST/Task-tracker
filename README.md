@@ -1,10 +1,13 @@
-# Angular1st
+# Task Tracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
+
+This is my first Angular2+ project made with use of JSON-server.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm run server` for a JSON-server database. Navigate to `http://localhost:5000/`.
 
 ## Code scaffolding
 
